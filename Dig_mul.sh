@@ -10,7 +10,7 @@
 # Define your Infoblox grid members here
 # Data format is GRID_MEMBER_DISPLAY_NAME and IP_ADDRESS separated with a colon
 # Each data pair is separated with a space
-INTERFACE="ATL:10.11.12.21 BOS:10.11.12.18 DAL:10.11.12.7 DEN:10.11.12.114 SED:10.11.12.39 PORT:10.11.12.72 "
+INTERFACE="ATL:10.11.12.21 BOS:10.11.12.18 DAL:10.11.12.7 DEN:10.11.12.114 SED:10.11.12.39 PORT:10.11.12.72 APAC :100.224.5.127"
 
 
 # Define regular expressions to validate IPv4 and IPv6 address format
